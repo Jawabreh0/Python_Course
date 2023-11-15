@@ -1,0 +1,6 @@
+1- Python use indentation concept:
+Unlike many other programming languages that use curly braces or keywords to define code blocks,
+Python uses indentation to signify the beginning and end of blocks of code. The level of
+indentation indicates the level of nesting
+
+

@@ -1,0 +1,19 @@
+- mkdir: create new directory
+Example: mkdir python_course, it will create new directory named python_course
+Example mkdir python java php, it will create three new directories named python java php 
+Example: mkdir "python course", will create a new directory named python course
+Example: mkdir ../python_course will create a new directory in the last directory
+
+- touch: create new file, and here you need to specify the file extension 
+Example: touch test.py, it will create a python file named test 
+
+- cd: change directory
+Example: cd python_course, will move you to the python_course directory
+Example: cd .., will move backt to the last directory 
+Example: cd/ , will move to the root directory
+
+- mv: move or renames a certin directory
+Example: python_course python, renames the python_course directory to python
+Example: python_course python, in case of there is a directory named python so it will nove the python_course directory to the python directory
+Example: mv python_course .., move the directory to the last directory
+Example: mv python_course / move the python_course directory to the root directory
