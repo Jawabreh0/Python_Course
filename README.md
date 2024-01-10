@@ -4,8 +4,8 @@
 
 ## Table Of Content:
 
-1.0 Print Statement
-2.0 Implicit Line Continuation (Optional Semicolon)
+1. Print Statement
+2. Implicit Line Continuation (Optional Semicolon)
 3.0 Comments
 4.0 Data Types
 4.1 List VS Tuple
