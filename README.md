@@ -1,4 +1,4 @@
-#Python Handbook
+# Python Handbook
 
 ## A comprehensive notebook documenting my Python learning journey, offering all the essentials in Python
 
