@@ -4,21 +4,21 @@
 
 ## Table Of Content:
 
-1. Print Statement
-2. Implicit Line Continuation (Optional Semicolon)
-3.0 Comments
-4.0 Data Types
-4.1 List VS Tuple
-5.0 Variables
-5.1 Variables Rules
-5.1.1 Variables Naming Rules
-5.1.2 Variables Assignment Rules
-5.1.3 Data Types
-5.1.4 Convention for Variable Names
-5.1.5 Avoid Single Character Names
-5.1.6 Readability Counts
-6.0 Escape Character Sequences
-7.0 String Concatenation
+1.0. Print Statement
+2.0. Implicit Line Continuation (Optional Semicolon)
+3.0. Comments
+4.0. Data Types
+4.1. List VS Tuple
+5.0. Variables
+5.1. Variables Rules
+5.1.1. Variables Naming Rules
+5.1.2. Variables Assignment Rules
+5.1.3. Data Types
+5.1.4. Convention for Variable Names
+5.1.5. Avoid Single Character Names
+5.1.6. Readability Counts
+6.0. Escape Character Sequences
+7.0. String Concatenation
 7.1 String Concatenation Examples
 8.0 Strings in Python
 8.1 String Methods
