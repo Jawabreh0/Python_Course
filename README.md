@@ -101,8 +101,8 @@
 
 34.0 Regular Expressions	
 35.0 Object Oriented Programming in Python	
-35.1 Main Concepts of OOP in Python	
-35.2 Class Methods and Instance Methods	
-35.3 Class Attributes and Instance Attributes	
-35.4 Important Concepts of OOP in Python	
-35.5 OOP Examples
+   - 35.1 Main Concepts of OOP in Python	
+   - 35.2 Class Methods and Instance Methods	
+   - 35.3 Class Attributes and Instance Attributes	
+   - 35.4 Important Concepts of OOP in Python	
+   - 35.5 OOP Examples
